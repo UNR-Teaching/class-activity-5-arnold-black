@@ -1,0 +1,5 @@
+db.sqlite3
+geckodriver.log
+ourBoi
+__pycache__
+*.pyc
